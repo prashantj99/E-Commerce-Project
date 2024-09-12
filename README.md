@@ -1,6 +1,6 @@
 ## E commerce project with Java + servlet + Hibernate + Firebase + MySql
 
-1. Developedane-commerce platform with modules for seller product
+1. Developed an e-commerce platform with modules for seller product
    management, brand registration,and order management.
 2. Implemented user interactions including authentication, password
  recovery, wishlist,and add-to-cart features, ensuring a seamless
